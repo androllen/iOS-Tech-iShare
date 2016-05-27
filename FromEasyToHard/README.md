@@ -11,3 +11,6 @@ svn
 > [下载smartsvn](http://www.smartsvn.com/) 
 
 git and github   
+https://github.com/QQVIPTeam/practice-of-ios/issues/1
+http://www.cnblogs.com/mjios/archive/2013/04/06/3002814.html
+https://en.wikipedia.org/wiki/Objective-C
