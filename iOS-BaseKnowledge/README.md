@@ -8,5 +8,6 @@ QQ Wechat foxmail 终端 Chrome
 4.代码管理工具  
 svn   
 > 可以使用终端 http://blog.csdn.net/q199109106q/article/details/8655204  
-> 可以下载smartsvn http://www.smartsvn.com/  
+> 可以下载smartsvn http://www.smartsvn.com/
+
 git and github   
