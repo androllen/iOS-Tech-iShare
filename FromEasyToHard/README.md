@@ -16,9 +16,11 @@ git and github
 
 6.[快捷键](http://www.cnblogs.com/langtianya/p/3888157.html)  
 通用的 windows 
-| 键盘 | 说明
-| ------------ | --------------
-| shift ＋ ctrl <-  | 上一页
-| shift ＋ ctrl ->  | 后一页
-| win＋／           | 注释
-| ctrl＋win＋上箭头 | 切换
+
+
+| 键盘 | 说明 |
+| ------------- | ------------- | 
+| shift ＋ ctrl <-  | 上一页  | 
+| shift ＋ ctrl ->  | 后一页  | 
+| win＋／           | 注释  | 
+| ctrl＋win＋上箭头 | 切换  | 
