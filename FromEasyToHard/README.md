@@ -13,3 +13,12 @@ svn
 git and github   
 
 5.[在 Windows 中使用 Apple 键盘](https://support.apple.com/zh-cn/HT202676)  
+
+6.[快捷键](http://www.cnblogs.com/langtianya/p/3888157.html)  
+通用的 windows 
+| 键盘 | 说明
+| ------------ | --------------
+| shift ＋ ctrl <-  | 上一页
+| shift ＋ ctrl ->  | 后一页
+| win＋／           | 注释
+| ctrl＋win＋上箭头 | 切换
