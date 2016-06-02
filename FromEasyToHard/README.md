@@ -20,7 +20,7 @@ git and github
 
 | 键盘 | 说明 |
 | ------------- | ------------- | 
-| shift ＋ ctrl <-  | 上一页  | 
-| shift ＋ ctrl ->  | 后一页  | 
+| shift ＋ ctrl ＋<-  | 上一页  | 
+| shift ＋ ctrl ＋->  | 后一页  | 
 | win＋／           | 注释  | 
 | ctrl＋win＋上箭头 | 切换  | 
