@@ -1,5 +1,5 @@
 
-#APP发布到[app store iTunes Connect](https://itunesconnect.apple.com)上面发布提交应用，查看所有应用状态  
+#APP发布到[iTunes Connect](https://itunesconnect.apple.com)可以发布提交应用，查看所有应用状态  
 
 1.应用程序上线前准备  
 > 开发者帐号 密码  
