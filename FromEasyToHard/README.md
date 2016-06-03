@@ -24,3 +24,7 @@ git and github
 | shift ＋ ctrl ＋->  | 后一页  | 
 | win＋／           | 注释  | 
 | ctrl＋win＋上箭头 | 切换  | 
+###下载渠道  
+> 任何应用程序都必须经过iTunesStore下载安装  
+> 要么直接从设备里下载，  
+> 要么从电脑中通过iTunes下载后同步到设备中  
