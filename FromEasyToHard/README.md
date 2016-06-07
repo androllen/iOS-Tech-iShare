@@ -25,7 +25,7 @@ http://www.niubb.net/a/2015/11-25/1056862.html
 | win＋／           | 注释  | 
 | ctrl＋win＋上箭头 | 切换  | 
 
-##Apple开发者授权的一些基本知识
+##Apple开发者授权
 > 下载渠道  
 > 破解  
 > 开发者  
@@ -44,15 +44,35 @@ http://www.niubb.net/a/2015/11-25/1056862.html
 > 2.生成授权文件.mobileprovision，这个文件会被打包进入IPA，实现设备与授权开发帐号的绑定。  
 > 3.生成证书文件.p12，这个文件也会被打包进入IPA，实现应用发行商的签名以及身份验证。  
 
-开发者授权系统还提供了开发（Development）和发布（Distribution）两个不同的渠道。  
-开发测试的时候需要设备的绑定而实现在设备上单独安装IPA，发布的时候则不需要绑定设备。  
-所以开发与发布需要使用不同的.mobileprovision与.cer文件。  
+    开发者授权系统还提供了开发（Development）和发布（Distribution）两个不同的渠道。  
+    开发测试的时候需要设备的绑定而实现在设备上单独安装IPA，发布的时候则不需要绑定设备。  
+    所以开发与发布需要使用不同的.mobileprovision与.cer文件。  
 
-打包之前
-需要证书，生成开发证书和发布证书 证书之前需要开发者帐号，授权文件需要app ID， 
-需要手机链接iTunes 显示Device ID，获取Device ID
-需要配置文件
-需要资源文件
+###发布之前
+> [登陆iTunes Connect](https://itunesconnect.apple.com/)  
+> [发布准备](#发布准备)  
+> 需要配置项目文件    
+> 需要资源文件    
+> 打包ipa文件  
+> 保存上传ipa文件  
 
-登陆开发者官网
-获取开发者bundle ID 产品名
+### 测试之前
+> [登陆iTunes Connect](https://itunesconnect.apple.com/)  
+> [发布准备](#发布准备)  
+> 需要手机链接iTunes 显示Device ID，获取Device ID    
+> 发送给开发者并绑定到测试设备中  
+> 需要配置项目文件    
+> 需要资源文件    
+> 打包ipa文件  
+> 保存上传ipa文件  
+
+### [打包之前](http://www.adobe.com/cn/devnet/flash/articles/ios_tutorial_3_pro_cert.html)
+> 需要证书，生成开发证书和发布证书 证书之前需要开发者帐号，授权文件需要app ID  
+> 生成ipa文件  
+
+###[发布准备](http://www.adobe.com/cn/devnet/flash/articles/ios_tutorial_4_itunes.html)  
+> 注册开发者帐号    
+> 创建应用信息  
+
+    登陆开发者官网
+    获取开发者bundle ID 产品名
