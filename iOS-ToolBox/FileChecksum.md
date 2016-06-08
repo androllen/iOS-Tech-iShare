@@ -13,6 +13,6 @@ MD5 (/Users/androllen/Downloads/vsc1_high.mp4) = 109a89cef6cb874aa91792d61b9cc4f
 
 
 
-relate link:
-http://osxdaily.com/2009/10/13/check-md5-hash-on-your-mac/ 
-http://osxdaily.com/2012/02/05/check-sha1-checksum-in-mac-os-x/
+relate link:  
+http://osxdaily.com/2009/10/13/check-md5-hash-on-your-mac/  
+http://osxdaily.com/2012/02/05/check-sha1-checksum-in-mac-os-x/  
