@@ -1,3 +1,4 @@
+#Mac终端文件夹校验
 
 Last login: Tue Jun  7 18:11:03 on ttys002  
 localhost:~ androllen$ shasum /Users/androllen/Downloads/vsc1_high.mp4  
@@ -8,7 +9,6 @@ localhost:~ androllen$ shasum -a 512 /Users/androllen/Downloads/vsc1_high.mp4
 9f0141b0a1a6666cfb85946842367a5dc4203c4f8bb19464f6f9bb384accb2d2ecd0e35152333338516aa651a5e3699c2d9e87b4cb1e030d788eaccdcfc73690  /Users/mahongbin/Downloads/vsc1_high.mp4  
 localhost:~ androllen$ md5 /Users/androllen/Downloads/vsc1_high.mp4  
 MD5 (/Users/androllen/Downloads/vsc1_high.mp4) = 109a89cef6cb874aa91792d61b9cc4fb  
-
 
 
 
